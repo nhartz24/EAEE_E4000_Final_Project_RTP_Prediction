@@ -18,8 +18,8 @@ The repo has everything needed to reproduce all project results, from data prepr
 - Model Training:
     We built 3 different models: CNN, LSTM, CNN-LSTM. We experimented with each model using different structures and only kept the best performing structure.
     Each model has two main notebooks:
-    1- for hyperparameter search, keras-tuner: this notebook has the full process for the search (example: `CNN_LSTM_model_keras_tuner.ipynb`).
-    2- for Best model training: this notebook walks through the implementation for best model after choosing the best hyperparameters (example: `CNN_LSTM_model.ipynb`)
+    - 1- for hyperparameter search, keras-tuner: this notebook has the full process for the search (example: `CNN_LSTM_model_keras_tuner.ipynb`).
+    - 2- for Best model training: this notebook walks through the implementation for best model after choosing the best hyperparameters (example: `CNN_LSTM_model.ipynb`)
     For each model, we keep the best one for each look-back window considered (24-48-72 hours), so we have 9 candiadate models.
     
 - Model Comparisons:
