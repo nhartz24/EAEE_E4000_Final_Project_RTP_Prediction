@@ -27,6 +27,7 @@ The repo has everything needed to reproduce all project results, from data prepr
     
 - Transfer Learning:
     - `Transfer_learning_models.ipynb` in this notebook we show the possibily of using tranfer learning to move models trained on certain zone to another zone. The notebook summaries our efforts in this task.
+    - Note: zones has been trained using the best model (CNN) by changing the zone in `CNN_model.ipynb` notebook.
     
     
 - Others:
