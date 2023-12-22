@@ -1,4 +1,4 @@
-# 4000_project
+# EAEE_E4000_Final_Project_RTP_Prediction
 
 This readme file will guide you through the project files.
 
