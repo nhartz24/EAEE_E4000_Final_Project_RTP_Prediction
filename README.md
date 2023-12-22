@@ -33,3 +33,4 @@ The repo has everything needed to reproduce all project results, from data prepr
 - Others:
     - `figures` include the figures produced from the notebooks and the ones used in the report.
     - `random_search` and `tuning_results` have the results of the hyperparameter search conducted for each model.
+    - `misc` for anything else
